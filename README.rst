@@ -24,6 +24,8 @@ code-block::
 
     $ git clone https://github.com/viktor8623/python-sample.git
 
+    $ cd python-sample
+
     $ hatch test -ta "--url=https://shop.by/"
 
 
