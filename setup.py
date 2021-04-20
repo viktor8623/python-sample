@@ -24,7 +24,7 @@ REQUIRES = [
     'packaging==19.1',
     'pandas==0.25.1',
     'pluggy==0.12.0',
-    'py==1.8.0',
+    'py==1.10.0',
     'pyparsing==2.4.2',
     'pytest==5.1.2',
     'python-dateutil==2.8.0',
